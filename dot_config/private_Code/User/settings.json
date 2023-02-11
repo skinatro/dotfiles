@@ -1,0 +1,27 @@
+{
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "cmake.configureOnOpen": true,
+    "clangd.path": "/home/reimu/.config/Code/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.6/clangd_15.0.6/bin/clangd",
+    "explorer.sortOrder": "type",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "glsllint.glslangValidatorPath": "/usr/bin/glslangValidator",
+    "glsllint.additionalStageAssociations": {
+        ".fs.glsl": "frag",
+        ".vs.glsl": "vert",
+        ".tes.glsl": "tese",
+        ".tcs.glsl": "tesc",
+        ".gs.glsl": "geom"
+    },
+    "files.autoSave": "onWindowChange",
+    "catppuccin.colorOverrides": {
+    "mocha": {
+        "base": "#020202",
+        "mantle": "#010101",
+        "crust": "#000000"
+    }
+    }
+    }
