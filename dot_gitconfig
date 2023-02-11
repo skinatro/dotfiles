@@ -1,0 +1,31 @@
+[user]
+	email = 60423203+skinatro@users.noreply.github.com
+	name = skinatro
+	#signingkey = 
+[github]
+	user = skinatro
+[core]
+	editor = vim
+[color]
+	ui = true
+[init]
+ 	defaultBranch = main
+[merge]
+	tool = vimdiff
+[diff]
+	tool = vimdiff
+[alias]
+	a = add
+	b = branch -v
+	c = commit -m #commit with message
+	ca = commit -am #commit all with messafe
+	ci = commit 
+	amend = commit --amend
+	co = checkout
+	cp = cherry-pick
+	d = diff
+	dl = diff HEAD^ #Diff Last = dl
+	pl = pull
+	ps = push
+	s = status
+
